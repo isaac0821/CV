@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.21)  29 MAY 2022 14:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.21)  15 AUG 2022 09:09
 entering extended mode
 **D:/CV/CV_EN.tex
 (D:/CV/CV_EN.tex
@@ -625,11 +625,11 @@ Package rerunfilecheck Info: File `CV_EN.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11213 strings out of 480797
- 183769 string characters out of 2905361
+ 11207 strings out of 480797
+ 183586 string characters out of 2905361
  554478 words of memory out of 3000000
  26862 multiletter control sequences out of 15000+200000
- 613794 words of font info for 128 fonts, out of 3000000 for 9000
+ 613230 words of font info for 124 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,8n,64p,1069b,536s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exi
@@ -645,7 +645,7 @@ blic/ebgaramond/EBGaramond-Regular.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmsy8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhv
 b8a.pfb>
-Output written on CV_EN.pdf (4 pages, 329364 bytes).
+Output written on CV_EN.pdf (4 pages, 329342 bytes).
 PDF statistics:
  57 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
